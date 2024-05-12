@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-mergeDebugResources-30:\\layout\\activity_add_note.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-main-33:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.structured.app-mergeDebugResources-30:/layout/activity_update_note.xml",
+        "source": "com.example.structured.app-main-33:/layout/activity_update_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-mergeDebugResources-30:\\layout\\activity_update_note.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-main-33:\\layout\\activity_update_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-mergeDebugResources-30:\\layout\\note_item.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.6\\com.example.structured.app-main-33:\\layout\\note_item.xml"
+    }
+]
